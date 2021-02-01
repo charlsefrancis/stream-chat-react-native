@@ -22,7 +22,7 @@
       "supportsTablet": true,
       "userInterfaceStyle": "light"
       "usesIcloudStorage": true
-     "android": {
+    "android": {
       "userInterfaceStyle": "dark"
     }
   }
