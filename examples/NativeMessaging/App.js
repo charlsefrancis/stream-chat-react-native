@@ -37,9 +37,9 @@ const theme = {
   },
 };
 
-const chatClient = new StreamChat('q95x9hkbyd6p');
+const chatClient = new StreamChat('wucygnes5bma');
 const userToken =
-  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoicm9uIn0.eRVjxLvd4aqCEHY_JRa97g6k7WpHEhxL7Z4K4yTot1c';
+  'jkndykrr7cepdnp5q8kyghrjjbbdgj8hrntn8n7jjwabqyh53axgj3h5h3kegp32';
 const user = {
   id: 'ron',
 };
@@ -195,7 +195,7 @@ export default () => {
                     }}>
                     <View
                       style={{
-                        alignItems: 'center',
+                        alignItems: 'center', JavaScript 
                         backgroundColor: 'white',
                         borderColor: 'rgba(0, 0, 0, 0.1)',
                         borderRadius: 3,
