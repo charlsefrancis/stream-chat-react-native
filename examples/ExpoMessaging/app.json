@@ -4,7 +4,6 @@
     "slug": "ExpoMessaging",
     "privacy": "public",
     "sdkVersion": "39.0.0",
-    "userInterfaceStyle": "automatic",
     "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
     "orientation": "portrait",
@@ -20,11 +19,7 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
-      "userInterfaceStyle": "light"
       "usesIcloudStorage": true,
-    },
-    "android": {
-      "userInterfaceStyle": "dark"
     }
   }
 }
