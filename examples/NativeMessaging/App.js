@@ -63,6 +63,11 @@ const streami18n = new Streami18n({
   language: 'en',
 });
 
+<Image
+  source={{ uri: 'asset:/app_icon.png' }}
+  style={{ width: 40, height: 40 }}
+/>
+
 const ChannelListScreen = React.memo(({navigation}) => {
   const {setChannel} = useContext(AppContext);
   return (
