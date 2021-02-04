@@ -64,7 +64,7 @@ const streami18n = new Streami18n({
 });
 
 <Image
-  source={{ uri: 'asset:/app_icon.png' }}
+  source={{ uri: 'asset:/app-logo.png' }}
   style={{ width: 40, height: 40 }}
 />
 
